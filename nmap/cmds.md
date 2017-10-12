@@ -136,3 +136,19 @@ No exact OS matches for host (test conditions non-ideal).
 OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 25.01 seconds
 ```
+
+
+```Subnetting```
+```
+min: 10.25. 0 0 0 0 - 0 0 0 0 . 0 0 0 0- 0 0 0 0
+     10.25. 0 . 0
+max: 10.25. 0 0 0 0 - 1 1 1 1 . 1 1 1 1 - 1 1 1 1 
+     10.25. 15 . 255
+
+
+min: 10.25. 0 0 0 1 - 0 0 0 0  . 0 0 0 0- 0 0 0 0
+	 10.25. 16 . 0
+max: 10.25. 0 0 0 1 - 1 1 1 1 . 1 1 1 1 - 1 1 1 1 
+     10.25. 31 . 255
+```
+
