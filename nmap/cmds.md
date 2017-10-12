@@ -67,3 +67,23 @@ HOP RTT       ADDRESS
 
 Nmap done: 2 IP addresses (2 hosts up) scanned in 12.72 seconds
 ```
+
+
+`Listing open ports on a target host`
+
+```nmap www.thequestspace.com```
+
+```
+Starting Nmap 7.01 ( https://nmap.org ) at 2017-10-12 17:25 SGT
+Nmap scan report for www.thequestspace.com (54.169.84.47)
+Host is up (0.0039s latency).
+rDNS record for 54.169.84.47: ec2-54-169-84-47.ap-southeast-1.compute.amazonaws.com
+Not shown: 997 filtered ports
+PORT    STATE  SERVICE
+22/tcp  open   ssh
+80/tcp  open   http
+443/tcp closed https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.72 seconds
+
+```
