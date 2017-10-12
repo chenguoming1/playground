@@ -15,7 +15,9 @@ Host is up (0.056s latency).
 Nmap done: 256 IP addresses (11 hosts up) scanned in 9.49 seconds
 ```
 
-Tracing route
+
+`Tracing route`
+Ping scans allows including trace route information of the targets. Use the Nmap option  --traceroute to trace the route from the scanning machine to the target host:
 ```
 sudo nmap -sn --traceroute google.com microsoft.com
 ```
