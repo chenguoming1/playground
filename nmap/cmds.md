@@ -1,3 +1,5 @@
+Host scanning
+
 ``` nmap -sn 192.168.1.182/24 ```
 
 Sample Response
