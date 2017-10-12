@@ -87,3 +87,52 @@ PORT    STATE  SERVICE
 Nmap done: 1 IP address (1 host up) scanned in 4.72 seconds
 
 ```
+
+Fingerpinting a host
+
+version detection,os detection
+
+```
+nmap -sV www.thequestspace.com
+```
+
+```
+Starting Nmap 7.01 ( https://nmap.org ) at 2017-10-12 17:32 SGT
+Nmap scan report for www.thequestspace.com (54.169.84.47)
+Host is up (0.0038s latency).
+rDNS record for 54.169.84.47: ec2-54-169-84-47.ap-southeast-1.compute.amazonaws.com
+Not shown: 997 filtered ports
+PORT    STATE  SERVICE VERSION
+22/tcp  open   ssh     OpenSSH 7.2p2 Ubuntu 4ubuntu2.1 (Ubuntu Linux; protocol 2.0)
+80/tcp  open   http    nginx 1.10.3 (Ubuntu)
+443/tcp closed https
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 12.45 seconds
+```
+
+OS Detection
+```
+sudo nmap -O www.thequestspace.com       
+```
+
+```
+Starting Nmap 7.01 ( https://nmap.org ) at 2017-10-12 17:44 SGT
+Nmap scan report for www.thequestspace.com (54.169.84.47)
+Host is up (0.0040s latency).
+rDNS record for 54.169.84.47: ec2-54-169-84-47.ap-southeast-1.compute.amazonaws.com
+Not shown: 997 filtered ports
+PORT    STATE  SERVICE
+22/tcp  open   ssh
+80/tcp  open   http
+443/tcp closed https
+Device type: general purpose|phone|specialized|storage-misc|broadband router|printer|WAP
+Running (JUST GUESSING): Linux 3.X|2.6.X|4.X (95%), Google Android 5.X (91%), Crestron 2-Series (87%), HP embedded (87%), Netgear embedded (86%)
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:2.6 cpe:/o:google:android:5.0.2 cpe:/o:linux:linux_kernel:4 cpe:/o:crestron:2_series cpe:/h:hp:p2000_g3 cpe:/h:netgear:wgr614v7
+Aggressive OS guesses: Linux 3.10 - 3.19 (95%), Linux 3.2 - 3.8 (95%), Linux 2.6.26 - 2.6.35 (92%), Linux 2.6.32 - 3.13 (92%), Android 5.0.2 (91%), Linux 3.10 (91%), Linux 3.2 - 3.10 (91%), Linux 3.2 - 3.13 (91%), Linux 3.2 - 4.0 (91%), Linux 2.6.23 - 2.6.38 (90%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 25.01 seconds
+```
