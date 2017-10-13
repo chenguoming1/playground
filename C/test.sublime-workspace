@@ -1,0 +1,1280 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"video",
+				"videoData"
+			],
+			[
+				"crea",
+				"creativeData"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"vd",
+				"video"
+			],
+			[
+				"var",
+				"vars"
+			],
+			[
+				"store",
+				"storeVideo"
+			],
+			[
+				"publisher",
+				"publisherPlatforms"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"sele",
+				"selectedIndex"
+			],
+			[
+				"mode",
+				"modelValue"
+			],
+			[
+				"vide",
+				"video"
+			],
+			[
+				"cans",
+				"canvasWidth"
+			],
+			[
+				"attr",
+				"attrs"
+			],
+			[
+				"is",
+				"is_video_upload"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"Face",
+				"FacebookAds"
+			],
+			[
+				"access",
+				"accessToken"
+			],
+			[
+				"publi",
+				"publisher_platform"
+			],
+			[
+				"init",
+				"initChart"
+			],
+			[
+				"instagra",
+				"instagram_account_id"
+			],
+			[
+				"instagram",
+				"instagramId"
+			],
+			[
+				"publsiher",
+				"publisherPlatforms"
+			],
+			[
+				"pub",
+				"publisherPlatforms"
+			],
+			[
+				"pa",
+				"page_backed_instagram_accounts"
+			],
+			[
+				"page",
+				"pageBackedInstagramAccount"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"custom",
+				"custom_placement"
+			],
+			[
+				"fbde",
+				"fb_detailed_targeting"
+			],
+			[
+				"select",
+				"selectedItems"
+			],
+			[
+				"in",
+				"instagramPreview"
+			],
+			[
+				"current",
+				"currentTotalDays"
+			],
+			[
+				"insta",
+				"instagram"
+			],
+			[
+				"p",
+				"platforms"
+			],
+			[
+				"plat",
+				"platforms"
+			],
+			[
+				"isValid",
+				"isValidName"
+			],
+			[
+				"err",
+				"errors"
+			],
+			[
+				"col",
+				"col-xs-12"
+			],
+			[
+				"col-l",
+				"col-lg-offset-7"
+			],
+			[
+				"col-sm",
+				"col-sm-6"
+			],
+			[
+				"isVali",
+				"isValidGgBudget"
+			],
+			[
+				"cus",
+				"custom_split"
+			],
+			[
+				"end",
+				"end_at"
+			],
+			[
+				"cam",
+				"campaigns"
+			],
+			[
+				"campa",
+				"campaigns"
+			],
+			[
+				"camp",
+				"campaigns"
+			],
+			[
+				"search",
+				"searchKeyword"
+			],
+			[
+				"http",
+				"httpCode"
+			],
+			[
+				"save",
+				"saveAsDraft"
+			],
+			[
+				"error",
+				"errors"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"adcre",
+				"adCreativeData"
+			],
+			[
+				"col-",
+				"col-sm-12"
+			],
+			[
+				"pi",
+				"pixelId"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"enab",
+				"facebookEnabled"
+			],
+			[
+				"get",
+				"getData"
+			],
+			[
+				"platfor",
+				"platforms"
+			],
+			[
+				"col-lg",
+				"col-lg-6"
+			],
+			[
+				"nv",
+				"navbar-brand"
+			],
+			[
+				"btn-",
+				"btn-block"
+			],
+			[
+				"btn",
+				"btn-block"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"campaign",
+				"campaign_id"
+			],
+			[
+				"info",
+				"infoKeys"
+			],
+			[
+				"fb_",
+				"fb_budget"
+			],
+			[
+				"emai",
+				"email_subscriptions"
+			],
+			[
+				"start",
+				"startAt"
+			],
+			[
+				"valida",
+				"validation_failed"
+			],
+			[
+				"not",
+				"notification"
+			],
+			[
+				"otp",
+				"otpErrorMsg"
+			],
+			[
+				"sdp",
+				"sdp_email_conflicted"
+			],
+			[
+				"isv_",
+				"isv_user_id"
+			],
+			[
+				"per",
+				"perPage"
+			],
+			[
+				"supp",
+				"supported_email_subscriptions"
+			],
+			[
+				"label",
+				"labels"
+			],
+			[
+				"mail",
+				"mailType"
+			],
+			[
+				"array",
+				"array_keys"
+			],
+			[
+				"user",
+				"userData"
+			],
+			[
+				"request",
+				"requestNo"
+			],
+			[
+				"ref",
+				"refKey"
+			],
+			[
+				"platform",
+				"platformEnded"
+			],
+			[
+				"active",
+				"activePlatforms"
+			],
+			[
+				"attri",
+				"attributes"
+			],
+			[
+				"subscribe",
+				"subscribedTo"
+			],
+			[
+				"email",
+				"emailSubscriptions"
+			],
+			[
+				"over",
+				"overflow-wrap"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"form-",
+				"form-group"
+			],
+			[
+				"array_inter",
+				"array_intersect"
+			],
+			[
+				"subscr",
+				"subscribedKeys"
+			],
+			[
+				"end_",
+				"end_duration"
+			],
+			[
+				"star",
+				"start_at"
+			],
+			[
+				"pla",
+				"platform"
+			],
+			[
+				"erro",
+				"error"
+			],
+			[
+				"debug",
+				"debugToken"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"remai",
+				"remainingBudget"
+			],
+			[
+				"remain",
+				"remaining"
+			],
+			[
+				"face",
+				"facebook"
+			],
+			[
+				"fbB",
+				"fbBg"
+			],
+			[
+				"job",
+				"jobTrackingId"
+			],
+			[
+				"gg",
+				"ggBudget"
+			],
+			[
+				"fb",
+				"fbBudget"
+			],
+			[
+				"shop",
+				"shopmatic_env"
+			],
+			[
+				"budget",
+				"budgetOrder"
+			],
+			[
+				"getIO",
+				"getISO8601String"
+			],
+			[
+				"getISO",
+				"getISO8601StartAt"
+			],
+			[
+				"resp",
+				"responseData"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"promo",
+				"promoCode"
+			],
+			[
+				"log",
+				"logSeparately"
+			],
+			[
+				"tota",
+				"totalDay"
+			],
+			[
+				"cart",
+				"cartResult"
+			],
+			[
+				"act",
+				"actionType"
+			],
+			[
+				"amount",
+				"amountToTopup"
+			],
+			[
+				"need",
+				"need_to_topup"
+			],
+			[
+				"newDa",
+				"newCampaignData"
+			],
+			[
+				"total",
+				"totalBalance"
+			],
+			[
+				"main",
+				"mainBalance"
+			],
+			[
+				"amou",
+				"amountToTopup"
+			],
+			[
+				"campaig",
+				"campaignBalance"
+			],
+			[
+				"bud",
+				"budgetDiff"
+			],
+			[
+				"reque",
+				"requestString"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"adSet",
+				"adsetId"
+			],
+			[
+				"ad",
+				"AdService"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.c",
+			"settings":
+			{
+				"buffer_size": 677,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test.sublime-project",
+			"settings":
+			{
+				"buffer_size": 452,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "support.c",
+			"settings":
+			{
+				"buffer_size": 103,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "#include <stdio.h>"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "Run",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"myapp",
+			"sh myapp",
+			"./myapp",
+			"dir",
+			"pwd",
+			"dir",
+			"./myapp",
+			"gcc"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/aung/development/dapper/C"
+	],
+	"file_history":
+	[
+		"/home/aung/development/dapper/C/myapp",
+		"/home/aung/development/dapper/C/cproj.sublime-project",
+		"/home/aung/development/dapper/dapper-ui/dist/app/directives/campaignFacebook/campaignFacebook.js",
+		"/home/aung/development/dapper/dapper-ui/src/adtiq.scss",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/campaignFacebook/campaignFacebook.js",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/campaignFacebook/campaignFacebook.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/campaignPlanWizardStep1.js",
+		"/home/aung/development/dapper/dapper-gg-ad/database/migrations/2017_09_19_070232_add_skip_plan_tour_to_users_table.php",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/campaignPlanWizardStep4.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/instagramPreview/instagramPreview.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/instagramPreview/instagramPreview.scss",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/instagramPreview/instagramPreview.js",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/campaignPlanWizardStep2.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/campaignPlanWizardStep2.js",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/fbDetailTargetting/fbDetailTargetting.js",
+		"/home/aung/development/dapper/dapper-gg-ad/app/Campaign.php",
+		"/home/aung/development/dapper/dapper-gg-ad/app/Http/Controllers/CampaignsController.php",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaign/campaignIndex.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaign/campaignIndex.js",
+		"/home/aung/development/dapper/dapper-gg-ad/app/Services/Facebook/CampaignService.php",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/campaignPlanWizardStep6.js",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/campaignPlanWizard.js",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/campaignPlanWizardStep1.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/directives.js",
+		"/home/aung/development/dapper/dapper-gg-ad/resources/views/emails/notification/gg_keyword_submission_issue.blade.php",
+		"/home/aung/development/dapper/dapper-gg-ad/app/Mail/Marketing/StartCampaign4.php",
+		"/home/aung/development/dapper/dapper-gg-ad/resources/views/emails/marketing/start_campaign_4.blade.php",
+		"/home/aung/development/dapper/dapper-gg-ad/app/Services/Facebook/FbService.php",
+		"/home/aung/development/dapper/dapper-gg-ad/app/Services/Factories/FbManagerFactory.php",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/ngPrism/ngPrism.js",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignDetails/campaignDetails.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaigns/campaigns.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/settings/settingsIndex.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/services/auth/auth.js",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/ngPrism/ngPrism.scss",
+		"/home/aung/development/dapper/dapper-gg-ad/app/User.php",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/settings/settingsIndex.js",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/settings/modals/confirmRemoveFbLogin.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/auth/authRegister.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/auth/authLogin.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/campaignPlan.html",
+		"/home/aung/development/dapper/dapper-gg-ad/app/Http/Controllers/Facebook/PageController.php",
+		"/home/aung/development/dapper/dapper-gg-ad/app/Http/Controllers/JwtAuthController.php",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/codePanel/codePanel.js",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/facebook/callback.js",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/campaignPlan.js",
+		"/home/aung/development/dapper/dapper-ui/src/index.ejs",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/settings/settings.scss",
+		"/home/aung/development/dapper/dapper-ui/src/index.js",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/ngPrism/ngPrism.html",
+		"/home/aung/development/dapper/dapper-gg-ad/app/Http/Controllers/AdsController.php",
+		"/home/aung/development/dapper/dapper-gg-ad/app/Notifications/FbNeedToExtendDateToEditAds.php",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/dateSelector/dateSelector.js",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/codePanel/codePanel.route.js",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/components.js",
+		"/home/aung/development/dapper/dapper-gg-ad/database/seeds/KeyValueSettingTableDevSeeder.php",
+		"/home/aung/development/dapper/release-note",
+		"/home/aung/development/dapper/dapper-ui/package.json",
+		"/home/aung/development/dapper/dapper-gg-ad/routes/web.php",
+		"/home/aung/development/dapper/dapper-gg-ad/app/Http/Controllers/SDP/SdpController.php",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/codePanel/codePanel.scss",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/codePanel/codePanel.html",
+		"/home/aung/development/dapper/dapper-gg-ad/database/migrations/2017_08_11_032642_add_deleted_at_to_users_table.php",
+		"/home/aung/development/dapper/facebook-php-ads-sdk-2.8.1/src/FacebookAds/Object/Values/AdPromotedObjectCustomEventTypeValues.php",
+		"/home/aung/development/dapper/dapper-gg-ad/app/Services/FbCampaignManager.php",
+		"/home/aung/development/dapper/dapper-gg-ad/app/Services/Facebook/AdSetService.php",
+		"/home/aung/Desktop/transactions-20170810-0556pm.csv",
+		"/home/aung/development/dapper/dapper-gg-ad/vendor/facebook/php-ads-sdk/src/FacebookAds/Object/Values/AdSetOptimizationGoalValues.php",
+		"/home/aung/development/dapper/dapper-gg-ad/vendor/facebook/php-ads-sdk/src/FacebookAds/Object/Values/AdPromotedObjectCustomEventTypeValues.php",
+		"/home/aung/development/dapper/dapper-gg-ad/vendor/facebook/php-ads-sdk/src/FacebookAds/Object/Fields/AdPromotedObjectFields.php",
+		"/home/aung/development/dapper/facebook-php-ads-sdk-2.8.1/src/FacebookAds/Object/Fields/AdPromotedObjectFields.php",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaigns/campaigns.js",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/campaignPlanWizardStep7.js",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/campaignPlanWizardStep5.js",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/campaignPlanWizardStep4.js",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/campaignPlanWizardStep3.js",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/campaignPlan.less",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/campaignPlan.route.js",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/campaignPlanWizardStep3.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/campaignPlanWizardStep5.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/campaignPlanWizardStep6.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/campaignPlanWizardStep7.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/campaignKeywords/campaignKeywords.js",
+		"/home/aung/development/dapper/dapper-ui/src/assets/js/angular-img-cropper.js",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaign/campaignImageCropModal.js",
+		"/home/aung/development/dapper/facebook-php-ads-sdk-2.8.1/src/FacebookAds/Object/Values/CampaignObjectiveValues.php",
+		"/home/aung/development/dapper/notes1",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/campaignAudience/campaignAudience.js",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/campaignAudience/campaignAudience.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/fbDetailTargetting/fbDetailTargetting.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/campaignKeywords/campaignKeywords.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaign/campaignProposal.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/modals/confirmRemoveFb.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/modals/confirmRemoveFb.controller.js",
+		"/home/aung/development/dapper/dapper-gg-ad/app/Console/Commands/ClearCache.php",
+		"/home/aung/development/dapper/dapper-gg-ad/app/Mail/UserActivation.php",
+		"/home/aung/development/dapper/dapper-gg-ad/resources/views/emails/user/activate.blade.php",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaign/campaignCart.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/dateRangeSelector/dateRangeSelector.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaign/campaignImageCropModal.html",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/campaignPlanWizard.html",
+		"/home/aung/development/dapper/dapper-gg-ad/app/Jobs/GenCampaignScreenshot.php",
+		"/home/aung/development/dapper/dapper-ui/src/app/services/campaign/campaign.js",
+		"/home/aung/development/dapper/dapper-gg-ad/app/Services/CampaignMetaData.php",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaign/campaignProposal.js",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaign/campaignThankYou.js",
+		"/home/aung/development/dapper/dapper-ui/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_type.scss",
+		"/home/aung/development/dapper/dapper-ui/src/index.scss",
+		"/home/aung/development/dapper/thebrand.html",
+		"/home/aung/development/dapper/startbootstrap-freelancer/index.html",
+		"/home/aung/development/dapper/startbootstrap-freelancer/gulpfile.js",
+		"/home/aung/development/dapper/startbootstrap-freelancer/less/freelancer.less",
+		"/home/aung/development/dapper/startbootstrap-freelancer/css/freelancer.min.css",
+		"/home/aung/development/dapper/startbootstrap-freelancer/css/freelancer.css",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignPlan/campaignPlan.scss",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/notificationList/notificationList.scss",
+		"/home/aung/development/dapper/dapper-ui/src/index.less",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaignEdit/campaignEdit.scss",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/mediumForm/mediumForm.scss",
+		"/home/aung/development/dapper/dapper-ui/src/app/components/campaign/campaignProposal.scss",
+		"/home/aung/development/dapper/dapper-ui/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/campaignPart/infoBlock.scss",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/campaignSingleFacebook/campaignSingleFacebook.scss",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/campaignPart/campaignPart.scss",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/campaignStats/detailPerformanceCard.scss",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/campaignStats/detailStatistic.scss",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/campaignStats/overviewPerformanceCard.scss",
+		"/home/aung/development/dapper/dapper-ui/src/app/directives/campaignStats/overviewStatisticCard.scss"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-gg-ad/app",
+			"/home/aung/development/dapper/dapper-gg-ad",
+			"/home/aung/development/dapper/dapper-gg-ad/app",
+			"/home/aung/development/dapper/dapper-gg-ad/app/Http/Controllers/Statistics",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-gg-ad/vendor/facebook/php-ads-sdk/src/FacebookAds",
+			"/home/aung/development/dapper/dapper-gg-ad/vendor/facebook/php-ads-sdk/src",
+			"/home/aung/development/dapper/dapper-gg-ad/vendor/facebook/graph-sdk/src",
+			"/home/aung/development/dapper/dapper-ui",
+			"/home/aung/development/dapper/dapper-ui/src/app",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-ui/src/app/components/campaignEdit",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-ui",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-gg-ad",
+			"/home/aung/development/dapper/dapper-gg-ad/app/Services",
+			"/home/aung/development/dapper/dapper-gg-ad/app",
+			"/home/aung/development/dapper/dapper-gg-ad/app/Services/Facebook",
+			"/home/aung/development/dapper/dapper-gg-ad",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-ui",
+			"/home/aung/development/dapper/dapper-gg-ad",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-gg-ad/resources/views/emails",
+			"/home/aung/development/dapper/dapper-gg-ad/vendor/laravel",
+			"/home/aung/development/dapper/dapper-gg-ad/vendor/laravel/framework",
+			"/home/aung/development/dapper/dapper-gg-ad/resources/views/emails/marketing",
+			"/home/aung/development/dapper/dapper-gg-ad/app/Jobs",
+			"/home/aung/development/dapper/dapper-gg-ad/app/Services",
+			"/home/aung/development/dapper/myoctober",
+			"/home/aung/development/dapper/dapper-gg-ad/app/Services",
+			"/home/aung/development/dapper/dapper-gg-ad",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-ui/src/app",
+			"/home/aung/development/dapper/dapper-gg-ad",
+			"/home/aung/development/dapper/dapper-gg-ad/app",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-gg-ad",
+			"/home/aung/development/dapper/dapper-gg-ad/app",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-gg-ad",
+			"/home/aung/development/dapper/dapper-ui/node_modules/lodash",
+			"/home/aung/development/dapper/dapper-ui",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-ui/src/app",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-ui/src/app",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-ui",
+			"/home/aung/development/dapper/dapper-ui/src/app",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-ui/src/app",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-ui/src/app",
+			"/home/aung/development/dapper/dapper-gg-ad",
+			"/home/aung/development/dapper/dapper-gg-ad/app",
+			"/home/aung/development/dapper/dapper-gg-ad/app/Http",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/startbootstrap-freelancer",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-ui",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-ui/node_modules/bootstrap-sass/assets/stylesheets/bootstrap",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-ui",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-ui/src/app",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-ui",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-ui",
+			"/home/aung/development/dapper/dapper-gg-ad",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-ui",
+			"/home/aung/development/dapper/dapper-gg-ad",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-ui",
+			"/home/aung/development/dapper/dapper-gg-ad",
+			"/home/aung/development/dapper/dapper-gg-ad/vendor",
+			"/home/aung/development/dapper/dapper-gg-ad/app",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-ui",
+			"/home/aung/development/dapper/dapper-gg-ad/app/Http/Controllers",
+			"/home/aung/development/dapper/dapper-ui/src",
+			"/home/aung/development/dapper/dapper-ui",
+			"/home/aung/development/dapper/dapper-gg-ad/app",
+			"/home/aung/development/dapper/dapper-gg-ad/",
+			"/home/aung/development/dapper/dapper-gg-ad/app/",
+			"/home/aung/development/dapper/dapper-gg-ad/app/Services/Google/",
+			"/home/aung/development/dapper/dapper-gg-ad",
+			"/home/aung/development/dapper/dapper-ui",
+			"/home/aung/development/dapper/dapper-gg-ad",
+			"/home/aung/development/dapper/",
+			"/home/aung/development/dapper/dapper-gg-ad",
+			"/home/aung/development/dapper/Laravel5xCookbook_code/workbench",
+			"/home/aung/development/dapper/angular.js-1.6.4/src/",
+			"/home/aung/development/dapper/dapper-ggad",
+			"/home/aung/development/dapper/dapper-gg-ad",
+			"/home/aung/development/dapper,/home/aung/development/dapper/dapper-gg-ad",
+			"/home/aung/development/dapper,/home/aung/development/dapper/dapper-api/app",
+			"/home/aung/development/dapper",
+			"/home/aung/development/dapper/php-graph-sdk-5.0.0",
+			"/home/aung/development/dapper/dapper-api/app/Services"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bastion",
+			"worker_instance",
+			"createAndstartAds(",
+			"settings",
+			"saveFacebookAd",
+			"\\t",
+			"an image is required",
+			"required",
+			"video",
+			"application/json",
+			"Content-Type:application/json",
+			"validateImage",
+			"errors",
+			"errors.image",
+			"video",
+			"vars.video",
+			"$scope.select(",
+			"$scope.select",
+			"scope.saveAd",
+			"savefacebookad =",
+			"savefacebookad(",
+			"savefacebook",
+			"saveAd",
+			"savead",
+			"publisher_platform",
+			"publisher_platforms",
+			"queue",
+			"publisherPlatforms",
+			"getFbPublisherPlatforms",
+			"publisher_platform",
+			"placement",
+			"placement_cart",
+			"overview",
+			"platformPlacementChart",
+			"placement",
+			"saveAd",
+			"dirty",
+			"\n                ",
+			"close\\(",
+			"dirty",
+			"select",
+			"select = ",
+			"saveAd",
+			"\\$q",
+			"video-display",
+			"video",
+			"ad",
+			"bo-tgl",
+			"bo-",
+			"bo",
+			"facebook",
+			"parent.getFacebook",
+			"budget split",
+			"vm.vm",
+			"\\$scope.ad",
+			"newAd",
+			"only",
+			"preview",
+			"Please use",
+			"Please use the Facebook account",
+			"\\$scope.ad",
+			"$scope.ad",
+			"videoFile",
+			"**\");\n",
+			"\\n",
+			"(.*)",
+			"ad",
+			"base",
+			"jpg",
+			"video",
+			",",
+			"max",
+			"loopGraphEdge",
+			"send",
+			"uploadImag",
+			"transfer",
+			"FacebookFile",
+			"advideos",
+			"CreateVideo",
+			"FacebookVideo",
+			"addfile",
+			"FacebookVideo",
+			"request",
+			"uploadvideo",
+			"        $",
+			" sendUploadRequest(",
+			"FAcebookRequest",
+			"uploadVideo",
+			"FacebookRequest",
+			"prepareRequestMessage",
+			"getBaseGraphUrl",
+			"BASE_GRAPH_VIDEO_URL",
+			"publisher_platforms",
+			"/overview",
+			"canCallapi",
+			"canCallApi",
+			"getFbAdset",
+			"/overview",
+			"fbCampaignService",
+			"master",
+			"summary.form.platforms_labels",
+			"vm.summary.form.platforms_data",
+			"platforms_text",
+			"_text",
+			"initChart",
+			"chartGgFbPlatform",
+			"budgetAllocationChart",
+			"$ctrl.",
+			"summary",
+			"$ctrl.",
+			"getFbPlatforms",
+			"campaignAudience",
+			"vm.",
+			"abc",
+			"createandstartAd",
+			"instagramId",
+			"createAdSet(",
+			"loadfacebook",
+			"is_pending",
+			"thankyou",
+			"||",
+			"true ||",
+			"To edit keywords and ads",
+			"To edit keywords and ads, you would need to access through campaign details, under each specific sections",
+			"find",
+			"isDisplay",
+			"google Adwords",
+			"true || "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"promocodes",
+			"  ",
+			"",
+			"|$1",
+			"estimationProjection",
+			"",
+			"budgetAllocationChart",
+			"campaignAudience",
+			"$scope.",
+			"$scope",
+			"",
+			"instagramPreview",
+			"campaignPlanWizard",
+			"plan",
+			"6",
+			"5",
+			"Step4",
+			"step4",
+			"vm.initChartProjection(",
+			"//vm.parent.initChart();",
+			"gg_max_budget",
+			"fb_max_budget",
+			"vm",
+			"campaign",
+			"budget",
+			"$ctrl",
+			"campaign",
+			",",
+			"",
+			",",
+			",\\n",
+			",",
+			",\\n",
+			",",
+			"",
+			",",
+			"  ",
+			"getMinBudgetByDuration(",
+			"add(",
+			"moment(",
+			"id: vm.campaign.id",
+			"id: vm.campaign.d",
+			" (vm.budget.form",
+			" vm.budget.form",
+			"vm.budget.form",
+			"$ctrl.campaign.budget",
+			".scss",
+			",",
+			" ",
+			"'",
+			"/",
+			";",
+			"",
+			";",
+			"\"-exclude\"",
+			"$1 \\",
+			"$1\"",
+			"-exclude \"/home/aung/development/dapper/dapper-gg-ad/",
+			"email_subscriptions",
+			"supported_email_subscriptions",
+			"is_testuser",
+			"update users set is_test_user=0 where id=$1;",
+			"update users set is_test_user=$2 where id=$1;",
+			"update users set is_test_user=$1 where id=$1;",
+			"1",
+			"item",
+			"$ctrl.item.selectedEmailSubscriptions",
+			"vm.itme.selectedEmailSubscriptions",
+			"$ctrl.item.subscribedEmailSubscriptions",
+			"vm.item.subscribedEmailSubscriptions",
+			"vm.item.supportedEmailSubscriptions",
+			"",
+			"uroot",
+			"ODNkZDU5ZjFiMzcyZDdmYzE3ZGE4NzQz",
+			"findAd",
+			"7.1",
+			"$campaign",
+			"$campaign = new Campaign();",
+			"$campaign->",
+			"getGGTopupInfo",
+			"getFBTopupInfo",
+			"$adSet",
+			"$campaign->",
+			"",
+			"self::",
+			"sometimes",
+			"\" => ",
+			"\" => \"",
+			"]",
+			"[",
+			"\" => \"",
+			"\\",
+			"\""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 677,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								338,
+								338
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "support.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								103,
+								103
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include <stdio.h>",
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 372.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "run the executable",
+	"project": "test.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"googleadservice",
+				"dapper-api/app/Services/Google/AdService.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 383.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

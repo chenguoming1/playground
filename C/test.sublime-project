@@ -1,0 +1,25 @@
+{
+	"build_systems":
+	[
+		{
+			"file_regex": "(.+[^:]):(\\d+):(\\d+): (?:fatal )?((?:error|warning): .+)$",
+			"name": "mybuild1",
+			"shell_cmd": "gcc -Wall -O2 main.c support.c -o myapp ; ./myapp",
+			"working_dir": "${project_path}"
+		},
+		{
+		    "name": "run the executable",
+		    "shell_cmd": "gcc -Wall -O2 sds.c zmalloc.c sds_main.c -o sdstest ; ./sdstest",
+		    "working_dir": "${project_path}"
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings":
+	{
+	}
+}
